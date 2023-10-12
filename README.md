@@ -10,6 +10,5 @@ TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.
 ```
 
 ##Andamento do Projeto
-```
 [X] Concluído
-```
+
