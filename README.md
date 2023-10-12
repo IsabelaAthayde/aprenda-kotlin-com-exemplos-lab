@@ -9,6 +9,6 @@ Desafio de Projeto criado para avaliação do conteúdo técnico explorado no re
 TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.kt] te ajudará 😉")
 ```
 
-##Andamento do Projeto
+## Andamento do Projeto
 [X] Concluído
 
